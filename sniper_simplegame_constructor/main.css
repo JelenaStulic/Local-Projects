@@ -1,0 +1,43 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.wrapp {
+  width: 600px;
+  height: 700px;
+  border: 2px solid #ddd;
+  margin: 10px auto;
+}
+.soldier {
+  width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  margin: 1px;
+  float: left;
+  background-color: green;
+}
+.sniper {
+  width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  margin: 1px;
+  float: left;
+  background-color: red;
+}
+.knife {
+  width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  margin: 1px;
+  float: left;
+  background-color: yellow;
+}
+#info {
+  width: 250px;
+  height: 100px;
+  background-color: #eee;
+  opacity: .7;
+  font-size: 28px;
+  position: absolute;
+  border-radius: 8px;
+}
